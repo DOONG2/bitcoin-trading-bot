@@ -1,22 +1,22 @@
 # bitcoin-trading-bot
 
-💰2017 Bitcoin Project using AutoHotKey
+💰 2017 Bitcoin Project using AutoHotKey
 
 > `2017. 09. 01 ~ 2017. 11. 01`
 
-## 0. Team : bit-juseyo
+## Team : bit-juseyo
 
 - 강중석
 - 김설호
 
-## 1. Idea
+## Idea
 
 > Bitcoin Trading Competition
 
 - senior investment of \$3000
 - eight teams participation
 
-## 2. Main Function
+## Main Function
 
 ![](capture.png))
 
@@ -24,6 +24,6 @@
 2. Real-time price change monitoring
 3. Real-time automatic trading
 
-## 3. 사용 스택
+## Used Stack
 
 - [AutoHotKey](https://www.autohotkey.com/)
