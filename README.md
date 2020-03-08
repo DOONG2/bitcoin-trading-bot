@@ -18,8 +18,8 @@
 
 ## Main Function
 
-<img src="img/capture1.png" width="50%" height="200">
-<img src="img/capture2.png" width="49%" height="200">
+<img src="img/capture1.png" width="80%" >
+<img src="img/capture2.png" width="80%" >
 
 1. algorithm using gambler law
 2. Real-time price change monitoring
