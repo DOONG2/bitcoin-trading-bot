@@ -7,7 +7,7 @@
 ## Team : bit-juseyo
 
 - 강중석
-- 김설호
+- [김설호](https://github.com/seolhokim)
 
 ## Idea
 
@@ -18,7 +18,7 @@
 
 ## Main Function
 
-![](capture.png))
+![](capture1.png))
 
 1. algorithm using gambler law
 2. Real-time price change monitoring
